@@ -1,0 +1,1 @@
+java -cp lib/weka.jar:lib/soot-trunk.jar:lib/soot-infoflow.jar:lib/soot-infoflow-android.jar:build/jar/SuSi.jar de.ecspride.sourcesinkfinder.SourceSinkFinder ~/android-platforms/android-17/android.jar permissionMethodWithLabel.pscout out.pscout
